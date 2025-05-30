@@ -2,6 +2,8 @@
 3.15 million representative non-covalent dimers and energies from the PDB   
 
 ## Download
+download from https://zenodo.org/records/15394561 
+or using `zenodo-get`:
 ```bash
 pip install zenodo-get
 zenodo-get 10.5281/zenodo.15394561
